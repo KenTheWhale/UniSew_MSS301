@@ -2,6 +2,8 @@
 
 This is the main repository for **UniSew**, your hub for innovative sewing solutions.
 
+![UniSew](https://github.com/KenTheWhale/UniSew_MSS301/blob/main/unisew.jpg)
+
 ---
 
 ### Microservices

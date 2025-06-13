@@ -10,11 +10,11 @@ This is the main repository for **UniSew**, your hub for innovative sewing solut
 
 Please use the links below to access the repositories for our microservices:
 
-* **Account Service:** https://github.com/UniSew2025/account_service
-* **Design Service:** https://github.com/UniSew2025/design_service
-* **Order Service:** https://github.com/UniSew2025/order_service
-* **Profile Service:** https://github.com/UniSew2025/profile_service
-* **Feedback Service:** https://github.com/UniSew2025/feedback_service
+* **Account Service:** https://github.com/UniSew2025/account_service (Mr Kha)
+* **Design Service:** https://github.com/UniSew2025/design_service (Mr Huy)
+* **Order Service:** https://github.com/UniSew2025/order_service (Mr Quoc)
+* **Profile Service:** https://github.com/UniSew2025/profile_service (Mr Trieu)
+* **Feedback Service:** https://github.com/UniSew2025/feedback_service (Mr Quoc)
 * **Gateway:** https://github.com/UniSew2025/gateway
 * **Client:** https://github.com/UniSew2025/client
 
